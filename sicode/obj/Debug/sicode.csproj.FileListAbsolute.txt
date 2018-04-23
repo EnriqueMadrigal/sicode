@@ -1,0 +1,10 @@
+c:\users\enriquelap\documents\visual studio 2015\Projects\sicode\sicode\bin\Debug\sicode.exe.config
+c:\users\enriquelap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.csprojResolveAssemblyReference.cache
+c:\users\enriquelap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.Form1.resources
+c:\users\enriquelap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.Properties.Resources.resources
+c:\users\enriquelap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.csproj.GenerateResource.Cache
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\bin\Debug\sicode.exe
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\bin\Debug\sicode.pdb
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.exe
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.pdb
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.mainWindow.resources
