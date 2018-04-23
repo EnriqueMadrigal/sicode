@@ -16,5 +16,18 @@ namespace sicode
         {
             InitializeComponent();
         }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+
+            salesman NewSales = new salesman();
+            NewSales.ShowDialog();
+
+        }
     }
 }
