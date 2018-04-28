@@ -62,6 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatosAspel.cs" />
+    <Compile Include="factSalesman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="factSalesman.Designer.cs">
+      <DependentUpon>factSalesman.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,9 @@
     <Compile Include="salesman.Designer.cs">
       <DependentUpon>salesman.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="factSalesman.resx">
+      <DependentUpon>factSalesman.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

@@ -19,3 +19,5 @@ C:\Documentos\sicode\sicode\obj\Debug\sicode.mainWindow.resources
 C:\Documentos\sicode\sicode\obj\Debug\sicode.Properties.Resources.resources
 C:\Documentos\sicode\sicode\obj\Debug\sicode.csproj.GenerateResource.Cache
 C:\Documentos\sicode\sicode\obj\Debug\sicode.salesman.resources
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.salesman.resources
+C:\Users\EnriqueLap\documents\visual studio 2015\Projects\sicode\sicode\obj\Debug\sicode.factSalesman.resources

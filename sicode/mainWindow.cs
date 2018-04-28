@@ -27,6 +27,18 @@ namespace sicode
 
             salesman NewSales = new salesman();
             NewSales.ShowDialog();
+            String curSalesman = NewSales.getSalesMan();
+
+            factSalesman facturas = new factSalesman();
+            facturas.setSalesman(curSalesman);
+            facturas.ShowDialog();
+
+
+
+        }
+
+        private void mainWindow_Load(object sender, EventArgs e)
+        {
 
         }
     }
