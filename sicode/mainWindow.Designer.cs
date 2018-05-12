@@ -73,7 +73,7 @@
             this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(23, 22);
-            this.toolStripButton3.Text = "Reporte";
+            this.toolStripButton3.Text = "toolStripButton3";
             this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // mainWindow
@@ -84,7 +84,6 @@
             this.Controls.Add(this.toolStrip1);
             this.Name = "mainWindow";
             this.Text = "mainWindow";
-            this.Load += new System.EventHandler(this.mainWindow_Load);
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.ResumeLayout(false);
