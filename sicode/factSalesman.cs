@@ -26,7 +26,7 @@ namespace sicode
 
             DatosAspel Data1 = new DatosAspel();
             Data1.Connect();
-            String query = "select STATUS,CVE_VEND,CAN_TOT, IMP_TOT4,CONDICION,IMPORTE,FOLIO,CONTADO  from FACTF01 where CVE_VEND='" + this.curSalesman + "'";
+            String query = "select STATUS,CVE_VEND,CAN_TOT, IMP_TOT4,CONDICION,IMPORTE,FOLIO,CONTADO  from FACTF01 where TRIM(CVE_VEND)='" + this.curSalesman + "'";
 
             curDataTable = Data1.LoadData(query);
             this.dataGridView1.DataSource = curDataTable;

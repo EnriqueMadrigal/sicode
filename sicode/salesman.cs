@@ -28,11 +28,20 @@ namespace sicode
             Data1.Connect();
 
             curDataTable = Data1.LoadData("select CVE_VEND, NOMBRE from VEND01");
-            this.dataGridView1.DataSource = curDataTable;
+           // this.dataGridView1.DataSource = curDataTable;
             this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.AllowUserToDeleteRows = false;
-       
-            
+
+            DataGridViewColumn col1 = new DataGridViewColumn();
+            col1.Width = 250;
+            col1.HeaderText = "Nombre";
+            this.dataGridView1.Columns.Add(col1);
+                
+                
+                
+
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
