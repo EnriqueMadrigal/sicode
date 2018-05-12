@@ -30,7 +30,14 @@ namespace sicode
             String curSalesMan = NewSales.getSalesMan();
 
 
+            facturas Factura = new facturas();
+            Factura.setSalesman(curSalesMan);
+            Factura.ShowDialog();
 
+        }
+
+        private void mainWindow_Load(object sender, EventArgs e)
+        {
 
         }
     }

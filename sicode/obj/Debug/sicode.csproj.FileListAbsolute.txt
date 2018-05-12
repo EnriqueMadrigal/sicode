@@ -21,3 +21,4 @@ C:\Users\EnriqueLap\Documents\Visual Studio 2015\Projects\sicode\sicode\obj\Debu
 C:\Users\EnriqueLap\Documents\Visual Studio 2015\Projects\sicode\sicode\obj\Debug\sicode.csproj.GenerateResource.Cache
 C:\Users\EnriqueLap\Documents\Visual Studio 2015\Projects\sicode\sicode\obj\Debug\sicode.exe
 C:\Users\EnriqueLap\Documents\Visual Studio 2015\Projects\sicode\sicode\obj\Debug\sicode.pdb
+C:\Users\EnriqueLap\Documents\Visual Studio 2015\Projects\sicode\sicode\obj\Debug\sicode.facturas.resources

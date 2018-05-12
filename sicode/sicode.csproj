@@ -68,6 +68,12 @@
     <Compile Include="factSalesman.Designer.cs">
       <DependentUpon>factSalesman.cs</DependentUpon>
     </Compile>
+    <Compile Include="facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facturas.Designer.cs">
+      <DependentUpon>facturas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,9 @@
     </Compile>
     <EmbeddedResource Include="factSalesman.resx">
       <DependentUpon>factSalesman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facturas.resx">
+      <DependentUpon>facturas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
