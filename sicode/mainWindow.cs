@@ -27,6 +27,10 @@ namespace sicode
 
             salesman NewSales = new salesman();
             NewSales.ShowDialog();
+            String curSalesMan = NewSales.getSalesMan();
+
+
+
 
         }
     }
