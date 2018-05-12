@@ -12,6 +12,9 @@ namespace sicode
 {
     public partial class Form1 : Form
     {
+
+
+
         public Form1()
         {
             InitializeComponent();
@@ -23,8 +26,8 @@ namespace sicode
             String curPasword = userpass_textBox.Text;
             String curUser = user_textBox.Text;
 
-            if (curUser == "admin" && curPasword == "admin")
-            {
+         //   if (curUser == "admin" && curPasword == "admin")
+         //   {
 
                 mainWindow mainForm = new mainWindow();
                 this.Hide();
@@ -32,8 +35,8 @@ namespace sicode
                 this.Close();
 
                
-            }
-
+         //   }
+         /*
             else {
                 string message = "El nombre de usuario o contraseña, son invalidas. Favor de verificar.";
                 string caption = "Aviso";
@@ -44,7 +47,7 @@ namespace sicode
 
                 result = MessageBox.Show(message, caption, buttons);
             }
-
+            */
 
         }
     }

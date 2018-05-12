@@ -27,6 +27,7 @@ namespace sicode
 
             salesman NewSales = new salesman();
             NewSales.ShowDialog();
+<<<<<<< HEAD
             String curSalesman = NewSales.getSalesMan();
 
             factSalesman facturas = new factSalesman();
@@ -39,6 +40,12 @@ namespace sicode
 
         private void mainWindow_Load(object sender, EventArgs e)
         {
+=======
+            String curSalesMan = NewSales.getSalesMan();
+
+
+
+>>>>>>> 77815da93d65f8068ca2f2c906973a365157e00f
 
         }
     }
